@@ -1,6 +1,5 @@
 pour lancer et utiliser le tool , veuillez lancer setup.py qui va installer les module et va lancer Main.py
 
-veuillez ne pas critiquer mon code car je suis debutant
 
 ce tool a pour objectif de réunir tout les tool disponible dans freeforreal et d'en faire un all in one.
 
