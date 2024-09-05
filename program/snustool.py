@@ -37,7 +37,7 @@ ASCII_ART = r"""
          [2] -> Search un pseudo                  ║  [5] -> Search un mot de passe hasher
          [3] -> Search un prenom nom              ║  [6] -> Search une adresse ip 
     ═════════════════════════════════════════════════════════════════════════════════════════════════════
-                            ║       discord.gg/freeforreal               ║
+                            ║                                            ║
                             ╚════════════════════════════════════════════╝ 
 """
 
